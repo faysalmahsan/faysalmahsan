@@ -9,7 +9,7 @@ I'm Faysal Moin Ahsan, a passionate System Administrator with a keen interest in
 - 📫 **Contact:** Reach out to me via email at faysalmoinahsan@gmail.com
 
 ## Experience
-For a detailed overview of my professional experience, you can visit my [LinkedIn profile](https://www.linkedin.com/in/faysalmoinahsan/).
+For a detailed overview of my professional experience, you can visit my [LinkedIn profile](https://bd.linkedin.com/in/faysalmoinahsan).
 
 <!-- 
 ## Projects Highlights
@@ -18,6 +18,6 @@ For a detailed overview of my professional experience, you can visit my [LinkedI
 -->
 
 ## Get in Touch
-I'm always open to collaboration and discussions on cloud, DevOps, and automation topics. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/faysalahsan) or drop me an email at faysalmoinahsan@gmail.com.
+I'm always open to collaboration and discussions on cloud, DevOps, and automation topics. Feel free to connect with me on [LinkedIn](https://bd.linkedin.com/in/faysalmoinahsan) or drop me an email at faysalmoinahsan@gmail.com.
 
 Let's innovate and build together! 🚀
